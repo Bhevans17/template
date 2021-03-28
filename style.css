@@ -1,0 +1,30 @@
+    #desktop-main-section {
+    background-image: url("./img/bg.png") !important;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    }
+
+    #mobile-main-section {
+    background-image: url("./img/bg.png") !important;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    }
+
+    #about-us {
+    background-image: url("./img/green_rectangle.png") !important;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    }
+
+    #mobile-main-section {
+    display: none;
+    }
+
+    #mobile-nav {
+    display: none;
+    }
